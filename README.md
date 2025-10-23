@@ -10,3 +10,5 @@ Program  Saya ini adalah web jual beli, dimana temanya adalah membaca komik beru
 Di projek saya ini, saya menggunakan bootstrap untuk bagian navbar, carousel, baris dan kolom untuk setiap konten, dan di tempat lain. Saya juga menggunakan css native buatan sendiri
 untuk menghias tombol-tombol di halaman koin. Di halaman manga dan manhwa, saya menggunakan inline css. Di web projek saya ini, ada chapter atau episode manga dan manhwa yang gratis,
 yang bisa dibuka dan dibaca secara gratis, tapi ada juga yang perlu koin untuk membukanya. Di sinilah saya membuat koin untuk dibeli dan bisa digunakan untuk membuka chapter yang tidak gratis itu.
+
+link Youtube : https://youtu.be/92nKYUJ7Zi0
